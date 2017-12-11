@@ -1,0 +1,22 @@
+{
+  "name": "quinlanjager.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinlanjager/quinlanjager.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quinlanjager/quinlanjager.github.io/issues"
+  },
+  "homepage": "https://github.com/quinlanjager/quinlanjager.github.io#readme",
+  "devDependencies": {
+    "milligram": "^1.3.0"
+  }
+}
